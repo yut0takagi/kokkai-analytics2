@@ -1,5 +1,7 @@
 # 国会議員の発言傾向分析アプリ
 
+![demo](https://github.com/yut0takagi/kokkai-analytics2/raw/main/src/output.gif)
+
 このアプリは、国会会議録APIを利用して特定議員の発言を収集・分析し、以下の4つの視点から可視化します：
 
 - 📝 発言一覧：原文をそのまま閲覧
