@@ -1,0 +1,14 @@
+# requirements.txt
+streamlit
+requests
+beautifulsoup4
+janome
+wordcloud
+matplotlib
+torch
+transformers
+gensim
+pyvis
+pandas
+fugashi
+unidic-lite
